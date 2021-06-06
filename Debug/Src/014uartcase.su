@@ -1,0 +1,7 @@
+014uartcase.c:24:6:USART2_Init	8	static
+014uartcase.c:36:7:USART2_GPIOInit	24	static
+014uartcase.c:55:6:BtnGPIOInits	24	static
+014uartcase.c:67:6:delay	16	static
+014uartcase.c:72:5:main	24	static
+014uartcase.c:131:6:USART2_IRQHandler	8	static
+014uartcase.c:137:6:USART_ApplicationEventCallback	16	static
